@@ -38,5 +38,5 @@
 ```
 
 
-Original script by Cory Goldberg
+Original script by Corey Goldberg
 http://coreygoldberg.blogspot.com/2013/01/python-matrix-in-your-terminal.html
