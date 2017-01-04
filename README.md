@@ -36,3 +36,7 @@
 >> wake up..._
 === Matrix Stopped ====
 ```
+
+
+Original script by Cory Goldberg
+http://coreygoldberg.blogspot.com/2013/01/python-matrix-in-your-terminal.html
